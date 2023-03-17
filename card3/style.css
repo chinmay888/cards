@@ -1,0 +1,138 @@
+#greybg{
+    background-color: grey 200;
+    justify-content: center;
+    position: absolute;
+    display: flex;
+    margin-left: 35%;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    align-items: center;
+    flex-direction: column;
+    
+
+}
+.pinkbg{
+    background-color: #db2777;
+    position: relative;
+    margin: auto;
+    padding: auto;
+    width: 380px;
+    height: 700px;
+    
+}
+.whitebg{
+    background-color: white;
+    position: relative;
+    height: 60%;
+    width: 94%;
+    top: 10px;
+    margin: auto;
+    padding: auto;
+    
+}
+.counters{
+    position: relative;
+    border-color: #db2777;
+    border-width: 2px;
+    border-style:solid;
+    width: 50%;
+    height: 15%;
+    border-radius: 30px 30px 30px 30px;
+    margin: auto;
+    padding: auto;
+    top: 10px;
+    text-align: center;
+    
+}
+.counters .pinktext{
+    
+    position: relative;
+    
+    
+    padding: auto;
+    margin: auto;overflow-wrap: break-word;
+    
+}
+.counters .svg1{
+    position: relative;
+    float: left;
+    top: 20px;
+    padding: auto;
+    margin: auto;
+}
+.image{
+    position: relative;
+    padding: auto;
+    margin: auto;
+    border-style: solid;
+    border-color: grey;
+    border-width: 1px;
+    width: 35%;
+    height: 35%;
+    top: 20px;
+}
+.cardtext{
+    padding: auto;
+    margin: auto;
+    position: relative;
+    font-size: large;
+    text-align: center;
+}
+.pinkline{
+    background-color: #db2777;
+    width: 150px;
+    height: 1.5px;
+    margin: auto;
+    
+    
+}
+.pinktext{
+    position: relative;
+    margin: auto;
+    padding: auto;
+    top: 10%;
+    
+}
+.description1{
+    position: relative;
+    margin: auto;
+    padding: auto;
+    text-align: center;
+    overflow-wrap: break-word;
+    overflow-y:hidden;
+    top: 10px;
+    white-space: wrap;
+    height: 78px;
+    
+    
+}
+.icons{
+    position: absolute;
+    display: flex;
+    margin: auto;
+    padding: auto;
+    flex-direction: row;
+    top: 85%;
+    left: 20%;
+    
+}
+.socialicons{
+    position: absolute;
+    bottom: -60%;
+    margin: auto;
+    padding: auto;
+    left: 33%;
+}
+.info{
+    position: relative;
+    margin: auto;
+    padding: auto;
+    top: 20%;
+}
+.text-white{
+    position: relative;
+    overflow-wrap: break-word;
+    margin: auto;
+    padding: auto;
+    bottom: 20px;
+}
