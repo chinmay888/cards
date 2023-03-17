@@ -136,3 +136,71 @@
     padding: auto;
     bottom: 20px;
 }
+/* second box css */
+.pinkbg2{
+    background-color: #db2777;
+    position: relative;
+    margin: auto;
+    padding: auto;
+    width: 380px;
+    height: 700px;
+    
+}
+.whitebg2{
+    background-color: white;
+    position: relative;
+    height: 60%;
+    width: 94%;
+    top: 10px;
+    margin: auto;
+    padding: auto;
+    
+}
+.counters2{
+    position: relative;
+    border-color: #db2777;
+    border-width: 2px;
+    border-style:solid;
+    width: 50%;
+    height: 15%;
+    border-radius: 30px 30px 30px 30px;
+    margin: auto;
+    padding: auto;
+    top: 10px;
+    text-align: center;
+    
+}
+.counters2 .pinktext2{
+    
+    position: relative;
+    
+    
+    padding: auto;
+    margin: auto;overflow-wrap: break-word;
+    
+}
+.counters2 .svg1{
+    position: relative;
+    float: left;
+    top: 20px;
+    padding: auto;
+    margin: auto;
+}
+.image2{
+    position: relative;
+    padding: auto;
+    margin: auto;
+    border-style: solid;
+    border-color: grey;
+    border-width: 1px;
+    width: 35%;
+    height: 35%;
+    top: 20px;
+}
+.cardtext2{
+    padding: auto;
+    margin: auto;
+    position: relative;
+    font-size: large;
+    text-align: center;
+}
