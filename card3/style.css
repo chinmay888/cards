@@ -487,3 +487,28 @@ padding: auto;
     padding: auto;
     overflow: hidden;
 }
+.toptext6{
+    position: absolute;
+    font-family: sans-serif;
+    left: 5%;
+}
+.grid-container {
+    position: relative;
+    top: 10%;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 15px;
+  }
+  .grid-item {
+    position: relative;
+    
+    padding: 38px;
+    font-size: 30px;
+    text-align: center;
+  }
+  .image6{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+  }
