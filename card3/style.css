@@ -18,6 +18,7 @@
     padding: auto;
     width: 380px;
     height: 700px;
+    overflow: hidden;
     
 }
 .whitebg{
@@ -28,6 +29,7 @@
     top: 10px;
     margin: auto;
     padding: auto;
+   
     
 }
 .counters{
@@ -50,7 +52,8 @@
     
     
     padding: auto;
-    margin: auto;overflow-wrap: break-word;
+    margin: auto;
+    overflow-wrap: break-word;
     
 }
 .counters .svg1{
@@ -144,16 +147,18 @@
     padding: auto;
     width: 380px;
     height: 700px;
+    overflow: hidden;
     
 }
 .whitebg2{
     background-color: white;
     position: relative;
-    height: 60%;
+    height: 97%;
     width: 94%;
     top: 10px;
     margin: auto;
     padding: auto;
+    overflow: hidden;
     
 }
 .counters2{
@@ -162,7 +167,7 @@
     border-width: 2px;
     border-style:solid;
     width: 50%;
-    height: 15%;
+    height: 8%;
     border-radius: 30px 30px 30px 30px;
     margin: auto;
     padding: auto;
@@ -176,7 +181,8 @@
     
     
     padding: auto;
-    margin: auto;overflow-wrap: break-word;
+    margin: auto;
+    overflow-wrap: break-word;
     
 }
 .counters2 .svg1{
@@ -194,7 +200,7 @@
     border-color: grey;
     border-width: 1px;
     width: 35%;
-    height: 35%;
+    height: 20%;
     top: 20px;
 }
 .cardtext2{
@@ -203,4 +209,112 @@
     position: relative;
     font-size: large;
     text-align: center;
+}
+.qrcode{
+    position: absolute;
+    margin: auto;
+    padding: auto;
+    left: 8%;
+}
+.sharetext{
+    position: absolute;
+    margin: auto;
+    padding: auto;
+    top: 78%;
+    left: 35%;
+}
+.sharetext2{
+    position: absolute;
+    margin: auto;
+    padding: auto;
+    top: 82%;
+    left: 14%;
+}
+.socialicons2{
+    position: absolute;
+    display: inline;
+    margin: auto;
+    padding: auto;
+    left: 27%;
+    display: flex;
+    flex-direction: row;
+    top: 90%;
+}
+/* 3rd box css */
+.pinkbg3{
+    background-color: #db2777;
+    position: relative;
+    margin: auto;
+    padding: auto;
+    width: 380px;
+    height: 700px;
+    overflow: hidden;
+    
+}
+.whitebg3{
+    background-color: white;
+    position: relative;
+    height: 97%;
+    width: 94%;
+    top: 10px;
+    margin: auto;
+    padding: auto;
+    overflow: hidden;
+}
+.toptext3{
+    font-family:sans-serif ;
+    position: absolute;
+    left: 5%;
+    font-size: 15px;
+}
+.companyname{
+position: absolute;
+top: 9%;
+left: 5%;
+white-space: nowrap;
+margin: auto;
+padding: auto;
+}
+.cleft{
+    position: relative;
+    font-family: sans-serif;
+}
+.category{
+    position: absolute;
+    top: 9%;
+    left: 5%;
+    white-space: nowrap;
+    margin: auto;
+    padding: auto;
+    }
+.cright{
+    position: relative;
+    overflow-wrap:break-word;
+    white-space: pre-wrap;
+}
+.cleft1{
+    position: relative;
+    font-family: sans-serif;
+    top: 50px; margin: auto;
+    padding: auto;
+    
+}
+.cright1{
+    position: relative;
+    
+    top: 50px; 
+    overflow-wrap: break-word;
+    white-space: pre-wrap;
+}
+.natureofb{
+    position: absolute;
+    top: 21%;
+    left: 5%;
+    white-space: nowrap;
+    margin: auto;
+    padding: auto;
+}
+.cleft2{
+    position: relative;
+    font-family: sans-serif;
 }
