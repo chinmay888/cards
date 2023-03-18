@@ -291,6 +291,7 @@ padding: auto;
     position: relative;
     overflow-wrap:break-word;
     white-space: pre-wrap;
+    font-family: sans-serif;
 }
 .cleft1{
     position: relative;
@@ -301,7 +302,7 @@ padding: auto;
 }
 .cright1{
     position: relative;
-    
+    font-family: sans-serif;
     top: 50px; 
     overflow-wrap: break-word;
     white-space: pre-wrap;
@@ -317,4 +318,48 @@ padding: auto;
 .cleft2{
     position: relative;
     font-family: sans-serif;
+}
+.cright2{
+    font-family: sans-serif;
+    overflow-wrap:break-word;
+    white-space: pre-wrap;
+}
+.specialist{
+    position: absolute;
+    top: 30%;
+    left: 5%;
+    white-space: nowrap;
+    margin: auto;
+    padding: auto;
+}
+.cleft3{
+   
+    font-family: sans-serif;
+    
+}
+.para{
+    white-space: pre-wrap;
+    overflow-wrap: break-word;
+    font-family: sans-serif;
+}
+/* 4th box css */
+.pinkbg4{
+    background-color: #db2777;
+    position: relative;
+    margin: auto;
+    padding: auto;
+    width: 380px;
+    height: 480px;
+    overflow: hidden;
+    
+}
+.whitebg4{
+    background-color: white;
+    position: relative;
+    height: 95%;
+    width: 94%;
+    top: 10px;
+    margin: auto;
+    padding: auto;
+    overflow: hidden;
 }
