@@ -670,3 +670,74 @@ padding: auto;
     overflow: hidden;
     
 }
+.payment{
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    position: absolute;
+    height: 30%;
+    width: 99%;
+}
+.toptext8{
+    position: absolute;
+    font-family: sans-serif;
+    left: 5%;
+}
+.paytm{
+    position: absolute;
+    font-family: sans-serif;
+    left: 5%;
+    top: 30%;
+
+}
+
+.phonepe{
+    position: absolute;
+    font-family: sans-serif;
+    left: 5%;
+    top: 50%;
+
+}
+.gpay{
+    position: absolute;
+    font-family: sans-serif;
+    left: 5%;
+    top: 70%;
+
+}
+.paytmnum{
+    position: absolute;
+    font-family: sans-serif;
+    left: 50%;
+    top: 31%;
+
+}
+
+.phonepenum{
+    position: absolute;
+    font-family: sans-serif;
+    left: 50%;
+    top: 51%;
+
+}
+.gpaynum{
+    position: absolute;
+    font-family: sans-serif;
+    left: 50%;
+    top: 71%;
+
+}
+.account{
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    position: absolute;
+    height: 45%;
+    width: 99%;
+    top: 30%;
+}
+.toptext9{
+    position: absolute;
+    font-family: sans-serif;
+    left: 5%;
+}
