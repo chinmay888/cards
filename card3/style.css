@@ -655,7 +655,7 @@ padding: auto;
     margin: auto;
     padding: auto;
     width: 380px;
-    height: 700px;
+    height: 750px;
     overflow: hidden;
     
 }
@@ -672,8 +672,6 @@ padding: auto;
 }
 .payment{
     border-width: 2px;
-    border-color: black;
-    border-style: solid;
     position: absolute;
     height: 30%;
     width: 99%;
@@ -731,8 +729,6 @@ padding: auto;
 }
 .account{
     border-width: 2px;
-    
-    border-style: solid;
     position: absolute;
     height: 45%;
     width: 99%;
@@ -827,4 +823,26 @@ padding: auto;
     top: 92%;
     overflow-wrap: break-word;
     word-break: break-all
+}
+.qrcode2{
+    border-width: 2px;
+    width: 100%;
+    position: absolute;
+    height: 25%;
+    top: 75%;
+    margin: auto;
+    padding: auto;
+    left: -1%;
+}
+.toptext10{
+    position: absolute;
+    font-family: sans-serif;
+    left: 5%;
+}
+.qr{
+    position: absolute;
+    margin: auto;
+    padding: auto;
+    top: 23%;
+    left: 24%;
 }
