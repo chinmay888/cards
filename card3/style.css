@@ -725,11 +725,13 @@ padding: auto;
     font-family: sans-serif;
     left: 50%;
     top: 71%;
+    overflow-wrap: break-word;
+    word-break: break-all;
 
 }
 .account{
     border-width: 2px;
-    border-color: black;
+    
     border-style: solid;
     position: absolute;
     height: 45%;
@@ -740,4 +742,89 @@ padding: auto;
     position: absolute;
     font-family: sans-serif;
     left: 5%;
+}
+.bank{
+
+        position: absolute;
+        font-family: sans-serif;
+        left: 5%;
+        top: 20%;
+    
+}
+.ifsc{
+
+    position: absolute;
+    font-family: sans-serif;
+    left: 5%;
+    top: 38%;
+
+}
+.account1{
+
+    position: absolute;
+    font-family: sans-serif;
+    left: 5%;
+    top: 56%;
+
+}
+.account2{
+
+    position: absolute;
+    font-family: sans-serif;
+    left: 5%;
+    top: 74%;
+
+}
+.account3{
+
+    position: absolute;
+    font-family: sans-serif;
+    left: 5%;
+    top: 92%;
+
+}
+.bankname{
+
+    position: absolute;
+    font-family: sans-serif;
+    left: 50%;
+    top: 20%;
+    overflow-wrap: break-word;
+    word-break: break-all
+}
+.ifsccode{
+
+    position: absolute;
+    font-family: sans-serif;
+    left: 50%;
+    top: 38%;
+    overflow-wrap: break-word;
+    word-break: break-all
+}
+.accountname{
+
+    position: absolute;
+    font-family: sans-serif;
+    left: 50%;
+    top: 56%;
+    overflow-wrap: break-word;
+    word-break: break-all
+}
+.accountnum{
+
+    position: absolute;
+    font-family: sans-serif;
+    left: 50%;
+    top: 74%;
+    overflow-wrap: break-word;
+    word-break: break-all
+}
+.accounttype{
+
+    position: absolute;
+    font-family: sans-serif;
+    left: 50%;
+    top: 92%;
+    overflow-wrap: break-word;
+    word-break: break-all
 }
