@@ -510,26 +510,109 @@ padding: auto;
     font-family: sans-serif;
     left: 5%;
 }
-.grid-container {
-    position: relative;
-    top: 10%;
-    display: grid;
-    grid-template-columns: auto auto auto;
-    padding: 15px;
-  }
-  .grid-item {
-    position: relative;
-    
-    padding: 38px;
-    font-size: 30px;
-    text-align: center;
-  }
-  .image6{
+.imagecontainer{
+    position: absolute;
+    margin: auto;
+    padding: auto;
+    top: 15%;
+    height: 80%;
+    width: 99%;
+    left: 2%;
+  
+}
+.div1{
+    position: absolute;
+    border-style: solid;
+    border-color:#db2777;
+    border-width: 2px;
+    height: 30%;
+    width: 30%;
+}
+.div2{
+    position: absolute;
+    border-style: solid;
+    border-color:#db2777;
+    border-width: 2px;
+    height: 30%;
+    width: 30%;
+    left: 33%;
+}
+.div3{
+    position: absolute;
+    border-style: solid;
+    border-color:#db2777;
+    border-width: 2px;
+    height: 30%;
+    width: 30%;
+    left: 66%;
+}
+.div4{
+    position: absolute;
+    border-style: solid;
+    border-color:#db2777;
+    border-width: 2px;
+    height: 30%;
+    width: 30%;
+    top: 33%;
+}
+.div5{
+    position: absolute;
+    border-style: solid;
+    border-color:#db2777;
+    border-width: 2px;
+    height: 30%;
+    width: 30%;
+    top: 33%;
+    left: 33%;
+}
+.div6{
+    position: absolute;
+    border-style: solid;
+    border-color:#db2777;
+    border-width: 2px;
+    height: 30%;
+    width: 30%;
+    top: 33%;
+    left: 66%;
+}
+.div7{
+    position: absolute;
+    border-style: solid;
+    border-color:#db2777;
+    border-width: 2px;
+    height: 30%;
+    width: 30%;
+    top: 66%;
+}
+.div8{
+    position: absolute;
+    border-style: solid;
+    border-color:#db2777;
+    border-width: 2px;
+    height: 30%;
+    width: 30%;
+    top: 66%;
+    left: 33%;
+}
+.div9{
+    position: absolute;
+    border-style: solid;
+    border-color:#db2777;
+    border-width: 2px;
+    height: 30%;
+    width: 30%;
+    top: 66%;
+    left: 66%;
+}
+.divimg1{
     position: relative;
     width: 100%;
+    margin: auto;
+    padding: auto;
     height: 100%;
-    overflow: hidden;
-  }
+    
+    
+}
   /* 7th box css */
   .pinkbg7{
     background-color: #db2777;
@@ -555,4 +638,46 @@ padding: auto;
     position: absolute;
     font-family: sans-serif;
     left: 5%;
+}
+.videocontainer{
+        position: absolute;
+        margin: auto;
+        padding: auto;
+        top: 15%;
+        height: 84%;
+        width: 99%;
+        left: .5%;
+       
+   
+}
+.divv1{
+    position: absolute;
+    border-width: 2px;
+    border-style: solid;
+    width: 100%;
+    height: 30%;
+    border-color: #db2777;
+    border-width: 1px;
+    
+
+}
+.divv2{
+    position: absolute;
+    border-width: 2px;
+    border-style: solid;
+    width: 100%;
+    height: 30%;
+    top: 32%;
+    border-color: #db2777;
+    border-width: 1px;
+}
+.divv3{
+    position: absolute;
+    border-width: 2px;
+    border-style: solid;
+    width: 100%;
+    height: 30%;
+    top: 64%;
+    border-color: #db2777;
+    border-width: 1px;
 }
