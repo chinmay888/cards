@@ -67,14 +67,23 @@
     position: relative;
     padding: auto;
     margin: auto;
-    border-style: solid;
-    border-color: grey;
     border-width: 1px;
-    width: 35%;
+    width: 39%;
     height: 35%;
     top: 20px;
 }
+.img1{
+    border-color:#db2777;
+    position: absolute;
+    margin: auto;
+    padding: auto;
+    border-width: 1px;
+    width: 100%;
+    height: 100%;
+    border-style: solid;
+}
 .cardtext{
+    top: 8px;
     padding: auto;
     margin: auto;
     position: relative;
@@ -196,14 +205,23 @@
     position: relative;
     padding: auto;
     margin: auto;
-    border-style: solid;
-    border-color: grey;
     border-width: 1px;
-    width: 35%;
+    width: 39%;
     height: 20%;
     top: 20px;
 }
+.img2{
+    border-color:#db2777;
+    position: absolute;
+    margin: auto;
+    padding: auto;
+    border-width: 1px;
+    width: 100%;
+    height: 100%;
+    border-style: solid;
+}
 .cardtext2{
+    top: 8px;
     padding: auto;
     margin: auto;
     position: relative;
@@ -512,3 +530,29 @@ padding: auto;
     height: 100%;
     overflow: hidden;
   }
+  /* 7th box css */
+  .pinkbg7{
+    background-color: #db2777;
+    position: relative;
+    margin: auto;
+    padding: auto;
+    width: 380px;
+    height: 550px;
+    overflow: hidden;
+    
+}
+.whitebg7{
+    background-color: white;
+    position: relative;
+    height: 96%;
+    width: 94%;
+    top: 10px;
+    margin: auto;
+    padding: auto;
+    overflow: hidden;
+}
+.toptext7{
+    position: absolute;
+    font-family: sans-serif;
+    left: 5%;
+}
