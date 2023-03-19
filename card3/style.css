@@ -648,3 +648,25 @@ padding: auto;
         width: 99%;
         left: 2%;
 }
+/* 8th box css */
+.pinkbg8{
+    background-color: #db2777;
+    position: relative;
+    margin: auto;
+    padding: auto;
+    width: 380px;
+    height: 700px;
+    overflow: hidden;
+    
+}
+.whitebg8{
+    background-color: white;
+    position: relative;
+    height: 97%;
+    width: 94%;
+    top: 10px;
+    margin: auto;
+    padding: auto;
+    overflow: hidden;
+    
+}
