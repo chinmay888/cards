@@ -655,6 +655,23 @@ padding: auto;
         width: 99%;
         left: 2%;
 }
+.video1{
+    position: absolute;
+    height: 30%;
+    width: 97%;
+}
+.video2{
+    position: absolute;
+    top:33%;
+    height: 30%;
+    width: 97%;
+}
+.video3{
+    position: absolute;
+    top: 66%;
+    height: 30%;
+    width: 97%;
+}
 /* 8th box css */
 .pinkbg8{
     background-color: #db2777;
