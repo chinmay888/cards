@@ -846,3 +846,12 @@ padding: auto;
     top: 23%;
     left: 24%;
 }
+@media only screen and (max-width: 800px){
+    #greybg{
+        position: relative;
+        margin-left: 3%;
+        overflow-y: hidden;
+        overflow-x: hidden ;
+    }
+
+}
