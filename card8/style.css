@@ -1,0 +1,887 @@
+#greybg{
+    background-color: grey 200;
+    justify-content: center;
+    position: absolute;
+    display: flex;
+    margin-left: 35%;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    align-items: center;
+    flex-direction: column;
+    
+
+}
+.pinkbg{
+    background-color: #db2777;
+    position: relative;
+    margin: auto;
+    padding: auto;
+    width: 380px;
+    height: 700px;
+    overflow: hidden;
+    
+}
+.whitebg{
+    background-color: white;
+    position: relative;
+    height: 60%;
+    width: 94%;
+    top: 10px;
+    margin: auto;
+    padding: auto;
+   
+    
+}
+.counters{
+    position: relative;
+    border-color: #db2777;
+    border-width: 2px;
+    border-style:solid;
+    width: 50%;
+    height: 15%;
+    border-radius: 30px 30px 30px 30px;
+    margin: auto;
+    padding: auto;
+    top: 10px;
+    text-align: center;
+    
+}
+.counters .pinktext{
+    
+    position: relative;
+    
+    
+    padding: auto;
+    margin: auto;
+    overflow-wrap: break-word;
+    
+}
+.counters .svg1{
+    position: relative;
+    float: left;
+    top: 20px;
+    padding: auto;
+    margin: auto;
+}
+.image{
+    position: relative;
+    padding: auto;
+    margin: auto;
+    border-width: 1px;
+    width: 39%;
+    height: 35%;
+    top: 20px;
+}
+.img1{
+    border-color:#db2777;
+    position: absolute;
+    margin: auto;
+    padding: auto;
+    border-width: 1px;
+    width: 100%;
+    height: 100%;
+    border-style: solid;
+}
+.cardtext{
+    top: 8px;
+    padding: auto;
+    margin: auto;
+    position: relative;
+    font-size: large;
+    text-align: center;
+}
+.pinkline{
+    background-color: #db2777;
+    width: 150px;
+    height: 1.5px;
+    margin: auto;
+    
+    
+}
+.pinktext{
+    position: relative;
+    margin: auto;
+    padding: auto;
+    top: 10%;
+    
+}
+.description1{
+    position: relative;
+    margin: auto;
+    padding: auto;
+    text-align: center;
+    overflow-wrap: break-word;
+    overflow-y:hidden;
+    top: 10px;
+    white-space: wrap;
+    height: 78px;
+    
+    
+}
+.icons{
+    position: absolute;
+    display: flex;
+    margin: auto;
+    padding: auto;
+    flex-direction: row;
+    top: 85%;
+    left: 20%;
+    
+}
+.socialicons{
+    position: absolute;
+    bottom: -60%;
+    margin: auto;
+    padding: auto;
+    left: 33%;
+}
+.info{
+    position: relative;
+    margin: auto;
+    padding: auto;
+    top: 20%;
+}
+.text-white{
+    position: relative;
+    overflow-wrap: break-word;
+    margin: auto;
+    padding: auto;
+    bottom: 20px;
+    color: white;
+}
+/* second box css */
+.pinkbg2{
+    background-color: #db2777;
+    position: relative;
+    margin: auto;
+    padding: auto;
+    width: 380px;
+    height: 700px;
+    overflow: hidden;
+    
+}
+.whitebg2{
+    background-color: white;
+    position: relative;
+    height: 97%;
+    width: 94%;
+    top: 10px;
+    margin: auto;
+    padding: auto;
+    overflow: hidden;
+    
+}
+.counters2{
+    position: relative;
+    border-color: #db2777;
+    border-width: 2px;
+    border-style:solid;
+    width: 50%;
+    height: 8%;
+    border-radius: 30px 30px 30px 30px;
+    margin: auto;
+    padding: auto;
+    top: 10px;
+    text-align: center;
+    
+}
+.counters2 .pinktext2{
+    
+    position: relative;
+    
+    
+    padding: auto;
+    margin: auto;
+    overflow-wrap: break-word;
+    
+}
+.counters2 .svg1{
+    position: relative;
+    float: left;
+    top: 20px;
+    padding: auto;
+    margin: auto;
+}
+.image2{
+    position: relative;
+    padding: auto;
+    margin: auto;
+    border-width: 1px;
+    width: 39%;
+    height: 20%;
+    top: 20px;
+}
+.img2{
+    border-color:#db2777;
+    position: absolute;
+    margin: auto;
+    padding: auto;
+    border-width: 1px;
+    width: 100%;
+    height: 100%;
+    border-style: solid;
+}
+.cardtext2{
+    top: 8px;
+    padding: auto;
+    margin: auto;
+    position: relative;
+    font-size: large;
+    text-align: center;
+}
+.qrcode{
+    position: absolute;
+    margin: auto;
+    padding: auto;
+    width: 50%;
+    border-color: #db2777;
+    border-style: solid;
+    border-width: 1px;
+    left: 25%;
+    height: 30%;
+    top: 40%;
+}
+.sharetext{
+    position: absolute;
+    margin: auto;
+    padding: auto;
+    top: 78%;
+    left: 35%;
+}
+.sharetext2{
+    position: absolute;
+    margin: auto;
+    padding: auto;
+    top: 82%;
+    left: 14%;
+}
+.socialicons2{
+    position: absolute;
+    display: inline;
+    margin: auto;
+    padding: auto;
+    left: 27%;
+    display: flex;
+    flex-direction: row;
+    top: 90%;
+}
+/* 3rd box css */
+.pinkbg3{
+    background-color: #db2777;
+    position: relative;
+    margin: auto;
+    padding: auto;
+    width: 380px;
+    height: 700px;
+    overflow: hidden;
+    
+}
+.whitebg3{
+    background-color: white;
+    position: relative;
+    height: 97%;
+    width: 94%;
+    top: 10px;
+    margin: auto;
+    padding: auto;
+    overflow: hidden;
+}
+.toptext3{
+    font-family:sans-serif ;
+    position: absolute;
+    left: 5%;
+    font-size: 15px;
+}
+.companyname{
+position: absolute;
+top: 9%;
+left: 5%;
+white-space: nowrap;
+margin: auto;
+padding: auto;
+}
+.cleft{
+    position: relative;
+    font-family: sans-serif;
+}
+.category{
+    position: absolute;
+    top: 9%;
+    left: 5%;
+    white-space: nowrap;
+    margin: auto;
+    padding: auto;
+    }
+.cright{
+    position: relative;
+    overflow-wrap:break-word;
+    white-space: pre-wrap;
+    font-family: sans-serif;
+}
+.cleft1{
+    position: relative;
+    font-family: sans-serif;
+    top: 50px; margin: auto;
+    padding: auto;
+    
+}
+.cright1{
+    position: relative;
+    font-family: sans-serif;
+    top: 50px; 
+    overflow-wrap: break-word;
+    white-space: pre-wrap;
+}
+.natureofb{
+    position: absolute;
+    top: 21%;
+    left: 5%;
+    white-space: nowrap;
+    margin: auto;
+    padding: auto;
+}
+.cleft2{
+    position: relative;
+    font-family: sans-serif;
+}
+.cright2{
+    font-family: sans-serif;
+    overflow-wrap:break-word;
+    white-space: pre-wrap;
+}
+.specialist{
+    position: absolute;
+    top: 30%;
+    left: 5%;
+    white-space: nowrap;
+    margin: auto;
+    padding: auto;
+}
+.cleft3{
+   
+    font-family: sans-serif;
+    
+}
+.para{
+    white-space: pre-wrap;
+    overflow-wrap: break-word;
+    font-family: sans-serif;
+}
+/* 4th box css */
+.pinkbg4{
+    background-color: #db2777;
+    position: relative;
+    margin: auto;
+    padding: auto;
+    width: 380px;
+    height: 480px;
+    overflow: hidden;
+    
+}
+.whitebg4{
+    background-color: white;
+    position: relative;
+    height: 95%;
+    width: 94%;
+    top: 10px;
+    margin: auto;
+    padding: auto;
+    overflow: hidden;
+}
+.toptext4{
+    position: absolute;
+    font-family: sans-serif;
+    left: 5%;
+}
+.insidepinkbg{
+    position: absolute;
+    border-style: solid;
+    border-color: #db2777;
+    margin: auto;
+    height: auto;
+    left: 2%;
+    height: 60%;
+    width: 90%;
+    border-width: 10px 10px 70px 10px;
+    top: 20%;
+}
+.image3{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+}
+.downloadbtn{
+    position: absolute;
+    top: 85%;
+    left: 9%;
+    margin: auto;
+    padding: auto;
+    
+}
+.card-1{
+    height: 40px;
+    width: 150%;
+    border-radius: 15px 15px 15px 15px;
+    background-color: white;
+    border-style: none;
+    
+}
+/* 5th box css */
+.pinkbg5{
+    background-color: #db2777;
+    position: relative;
+    margin: auto;
+    padding: auto;
+    width: 380px;
+    height: 480px;
+    overflow: hidden;
+    
+}
+.whitebg5{
+    background-color: white;
+    position: relative;
+    height: 95%;
+    width: 94%;
+    top: 10px;
+    margin: auto;
+    padding: auto;
+    overflow: hidden;
+}
+.toptext5{
+    position: absolute;
+    font-family: sans-serif;
+    left: 5%;
+}
+.insidepinkbg1{
+    position: absolute;
+    border-style: solid;
+    border-color: #db2777;
+    margin: auto;
+    height: auto;
+    left: 2%;
+    height: 60%;
+    width: 90%;
+    border-width: 10px 10px 70px 10px;
+    top: 20%;
+}
+.image5{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+}
+.downloadbtn1{
+    position: absolute;
+    top: 85%;
+    left: 9%;
+    margin: auto;
+    padding: auto;
+    
+}
+.card-2{
+    height: 40px;
+    width: 150%;
+    border-radius: 15px 15px 15px 15px;
+    background-color: white;
+    border-style: none;
+    
+}
+/* 6th box css */
+.pinkbg6{
+    background-color: #db2777;
+    position: relative;
+    margin: auto;
+    padding: auto;
+    width: 380px;
+    height: 550px;
+    overflow: hidden;
+    
+}
+.whitebg6{
+    background-color: white;
+    position: relative;
+    height: 96%;
+    width: 94%;
+    top: 10px;
+    margin: auto;
+    padding: auto;
+    overflow: hidden;
+}
+.toptext6{
+    position: absolute;
+    font-family: sans-serif;
+    left: 5%;
+}
+.imagecontainer{
+    position: absolute;
+    margin: auto;
+    padding: auto;
+    top: 15%;
+    height: 80%;
+    width: 99%;
+    left: 2%;
+  
+}
+.div1{
+    position: absolute;
+    border-style: solid;
+    border-color:#db2777;
+    border-width: 2px;
+    height: 30%;
+    width: 30%;
+}
+.div2{
+    position: absolute;
+    border-style: solid;
+    border-color:#db2777;
+    border-width: 2px;
+    height: 30%;
+    width: 30%;
+    left: 33%;
+}
+.div3{
+    position: absolute;
+    border-style: solid;
+    border-color:#db2777;
+    border-width: 2px;
+    height: 30%;
+    width: 30%;
+    left: 66%;
+}
+.div4{
+    position: absolute;
+    border-style: solid;
+    border-color:#db2777;
+    border-width: 2px;
+    height: 30%;
+    width: 30%;
+    top: 33%;
+}
+.div5{
+    position: absolute;
+    border-style: solid;
+    border-color:#db2777;
+    border-width: 2px;
+    height: 30%;
+    width: 30%;
+    top: 33%;
+    left: 33%;
+}
+.div6{
+    position: absolute;
+    border-style: solid;
+    border-color:#db2777;
+    border-width: 2px;
+    height: 30%;
+    width: 30%;
+    top: 33%;
+    left: 66%;
+}
+.div7{
+    position: absolute;
+    border-style: solid;
+    border-color:#db2777;
+    border-width: 2px;
+    height: 30%;
+    width: 30%;
+    top: 66%;
+}
+.div8{
+    position: absolute;
+    border-style: solid;
+    border-color:#db2777;
+    border-width: 2px;
+    height: 30%;
+    width: 30%;
+    top: 66%;
+    left: 33%;
+}
+.div9{
+    position: absolute;
+    border-style: solid;
+    border-color:#db2777;
+    border-width: 2px;
+    height: 30%;
+    width: 30%;
+    top: 66%;
+    left: 66%;
+}
+.divimg1{
+    position: relative;
+    width: 100%;
+    margin: auto;
+    padding: auto;
+    height: 100%;
+    
+    
+}
+  /* 7th box css */
+  .pinkbg7{
+    background-color: #db2777;
+    position: relative;
+    margin: auto;
+    padding: auto;
+    width: 380px;
+    height: 550px;
+    overflow: hidden;
+    
+}
+.whitebg7{
+    background-color: white;
+    position: relative;
+    height: 96%;
+    width: 94%;
+    top: 10px;
+    margin: auto;
+    padding: auto;
+    overflow: hidden;
+}
+.toptext7{
+    position: absolute;
+    font-family: sans-serif;
+    left: 5%;
+}
+.videocontainer{
+        position: absolute;
+        margin: auto;
+        padding: auto;
+        top: 15%;
+        height: 84%;
+        width: 99%;
+        left: 2%;
+}
+.video1{
+    position: absolute;
+    height: 30%;
+    width: 97%;
+}
+.video2{
+    position: absolute;
+    top:33%;
+    height: 30%;
+    width: 97%;
+}
+.video3{
+    position: absolute;
+    top: 66%;
+    height: 30%;
+    width: 97%;
+}
+/* 8th box css */
+.pinkbg8{
+    background-color: #db2777;
+    position: relative;
+    margin: auto;
+    padding: auto;
+    width: 380px;
+    height: 750px;
+    overflow: hidden;
+    
+}
+.whitebg8{
+    background-color: white;
+    position: relative;
+    height: 97%;
+    width: 94%;
+    top: 10px;
+    margin: auto;
+    padding: auto;
+    overflow: hidden;
+    
+}
+.payment{
+    border-width: 2px;
+    position: absolute;
+    height: 30%;
+    width: 99%;
+}
+.toptext8{
+    position: absolute;
+    font-family: sans-serif;
+    left: 5%;
+}
+.paytm{
+    position: absolute;
+    font-family: sans-serif;
+    left: 5%;
+    top: 30%;
+
+}
+
+.phonepe{
+    position: absolute;
+    font-family: sans-serif;
+    left: 5%;
+    top: 50%;
+
+}
+.gpay{
+    position: absolute;
+    font-family: sans-serif;
+    left: 5%;
+    top: 70%;
+
+}
+.paytmnum{
+    position: absolute;
+    font-family: sans-serif;
+    left: 50%;
+    top: 31%;
+
+}
+
+.phonepenum{
+    position: absolute;
+    font-family: sans-serif;
+    left: 50%;
+    top: 51%;
+
+}
+.gpaynum{
+    position: absolute;
+    font-family: sans-serif;
+    left: 50%;
+    top: 71%;
+    overflow-wrap: break-word;
+    word-break: break-all;
+
+}
+.account{
+    border-width: 2px;
+    position: absolute;
+    height: 45%;
+    width: 99%;
+    top: 30%;
+}
+.toptext9{
+    position: absolute;
+    font-family: sans-serif;
+    left: 5%;
+}
+.bank{
+
+        position: absolute;
+        font-family: sans-serif;
+        left: 5%;
+        top: 20%;
+    
+}
+.ifsc{
+
+    position: absolute;
+    font-family: sans-serif;
+    left: 5%;
+    top: 38%;
+
+}
+.account1{
+
+    position: absolute;
+    font-family: sans-serif;
+    left: 5%;
+    top: 56%;
+
+}
+.account2{
+
+    position: absolute;
+    font-family: sans-serif;
+    left: 5%;
+    top: 74%;
+
+}
+.account3{
+
+    position: absolute;
+    font-family: sans-serif;
+    left: 5%;
+    top: 92%;
+
+}
+.bankname{
+
+    position: absolute;
+    font-family: sans-serif;
+    left: 50%;
+    top: 20%;
+    overflow-wrap: break-word;
+    word-break: break-all
+}
+.ifsccode{
+
+    position: absolute;
+    font-family: sans-serif;
+    left: 50%;
+    top: 38%;
+    overflow-wrap: break-word;
+    word-break: break-all
+}
+.accountname{
+
+    position: absolute;
+    font-family: sans-serif;
+    left: 50%;
+    top: 56%;
+    overflow-wrap: break-word;
+    word-break: break-all
+}
+.accountnum{
+
+    position: absolute;
+    font-family: sans-serif;
+    left: 50%;
+    top: 74%;
+    overflow-wrap: break-word;
+    word-break: break-all
+}
+.accounttype{
+
+    position: absolute;
+    font-family: sans-serif;
+    left: 50%;
+    top: 92%;
+    overflow-wrap: break-word;
+    word-break: break-all
+}
+.qrcode2{
+    border-width: 2px;
+    width: 100%;
+    position: absolute;
+    height: 25%;
+    top: 75%;
+    margin: auto;
+    padding: auto;
+    left: -1%;
+}
+.toptext10{
+    position: absolute;
+    font-family: sans-serif;
+    left: 5%;
+}
+.qr{
+    border-style: solid;
+    border-width: 1px;
+    border-color: #db2777;
+    padding: auto; 
+    margin: auto;
+    position: absolute;
+    width: 40%;
+    height: 70%;
+    left: 31%;
+    top: 26%;
+    
+}
+@media only screen and (max-width: 800px){
+    #greybg{
+        position: relative;
+        margin-left: 3%;
+        overflow-y: hidden;
+        overflow-x: hidden ;
+    }
+
+}
